@@ -70,12 +70,7 @@ The API runs on `http://localhost:8000`.
    ```
 The dashboard runs on `http://localhost:3000`.
 
-## Roadmap
 
-- [ ] Implement robust user authentication (JWT).
-- [ ] Add PostgreSQL support for scalable production deployments.
-- [ ] Implement historical data analytics and CSV exports.
-- [ ] Introduce MQTT broker support as a transport alternative to HTTP.
 
 ## Screenshots
 
