@@ -79,8 +79,10 @@ The dashboard runs on `http://localhost:3000`.
 
 ## Screenshots
 
-*(Placeholder for main dashboard screenshot)*
-*(Placeholder for device detail screenshot)*
+<!-- 
+Add your screenshots here later like this:
+![Dashboard Demo](docs/images/dashboard.png)
+-->
 
 ## ESP32 Firmware Setup
 
