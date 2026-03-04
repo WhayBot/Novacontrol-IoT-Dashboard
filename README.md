@@ -130,4 +130,4 @@ If your device shows connected to WiFi in the Serial Monitor but isn't visible i
 1. **Check Backend IP:** Ensure the ESP32 `serverUrl` matches the exact local IP address of the machine running the FastAPI backend.
 2. **Check Firewall:** Ensure your PC's firewall allows inbound connections on port 8000 (Python).
 3. **Verify API Endpoint:** Use `curl` or Postman from another machine to ensure the `POST /api/register` endpoint is reachable on the local network.
-4. **Clear Credentials:** The ESP32 might be trying to authenticate with a wiped database using an old API key. Open the Serial Monitor, send the `reset` command, and restart the board.
+4. **Clear Credentials:** The ESP32 might be trying to authenticate with a wiped database using an old API key. Open the Serial Monitor, send the `reset` command, and restart the board. 
