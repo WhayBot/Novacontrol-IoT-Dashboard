@@ -52,6 +52,10 @@ novacontrol/
    ```bash
    python -m uvicorn app.main:app --reload
    ```
+   Alternative
+   ```bash
+   python -m unicorn app.main:app --host 0.0.0.0 --port 8000
+   ```
 The API runs on `http://localhost:8000`.
 
 ### Frontend
